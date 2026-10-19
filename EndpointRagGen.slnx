@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/TextRag.Core/TextRag.Core.csproj" />
+  <Project Path="src/TextRag.WinForms/TextRag.WinForms.csproj" />
+  <Project Path="tests/TextRag.Verification/TextRag.Verification.csproj" />
+</Solution>
